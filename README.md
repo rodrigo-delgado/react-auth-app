@@ -1,1 +1,1 @@
-# React Boilerplate
+# React auth-app
